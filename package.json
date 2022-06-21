@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest --watchAll --verbose --maxWorkers=1 --coverage"
   },
   "keywords": [],
   "author": "",
@@ -26,6 +26,7 @@
     "winston-mongodb": "^3.0.0"
   },
   "devDependencies": {
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "supertest": "^6.2.3"
   }
 }

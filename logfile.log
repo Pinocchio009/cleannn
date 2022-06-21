@@ -1,0 +1,13 @@
+{"level":"info","message":"listening on port 3200....","timestamp":"2022-06-14T08:32:58.030Z"}
+{"level":"info","message":"Conneted to mongodb://localhost/vidly....","timestamp":"2022-06-14T08:32:58.115Z"}
+{"level":"info","message":"listening on port 3200....","timestamp":"2022-06-14T08:33:33.290Z"}
+{"level":"info","message":"Conneted to mongodb://localhost/vidly....","timestamp":"2022-06-14T08:33:33.339Z"}
+{"level":"info","message":"listening on port 3200....","timestamp":"2022-06-14T08:33:59.941Z"}
+{"level":"info","message":"Conneted to mongodb://localhost/vidly....","timestamp":"2022-06-14T08:33:59.992Z"}
+{"level":"info","message":"listening on port 3200....","timestamp":"2022-06-14T08:35:30.638Z"}
+{"level":"info","message":"Conneted to mongodb://localhost/vidly....","timestamp":"2022-06-14T08:35:30.689Z"}
+{"level":"info","message":"listening on port 3200....","timestamp":"2022-06-14T08:35:48.124Z"}
+{"level":"info","message":"Conneted to mongodb://localhost/vidly....","timestamp":"2022-06-14T08:35:48.176Z"}
+{"level":"info","message":"listening on port 3200....","timestamp":"2022-06-14T09:13:54.754Z"}
+{"message":" could not get the genre","stack":"Error:  could not get the genre\n    at /home/nick/vidly/routes/genres.js:12:10\n    at newFn (/home/nick/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/nick/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/nick/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/nick/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/nick/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/nick/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/nick/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/nick/vidly/node_modules/express/lib/router/index.js:341:12)\n    at next (/home/nick/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/nick/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/nick/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/nick/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/nick/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/nick/vidly/node_modules/express/lib/router/index.js:323:13)\n    at /home/nick/vidly/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2022-06-14T09:13:54.789Z"}
+{"level":"info","message":"Conneted to mongodb://localhost/vidly_tests....","timestamp":"2022-06-14T09:13:54.846Z"}
